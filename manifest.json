@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "version": "0.0.1",
-    "name": "Random Facts",
+    "name": "Random Quotes",
     "description": "Just a test",
     "author": "@italicnich on github",
     "browser_action": {
