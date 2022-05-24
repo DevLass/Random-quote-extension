@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Random Facts",
+    "description": "Just a test",
+    "author": "@italicnich on github",
+    "browser_action": {
+        "default_title": "Test",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+
+    },
+    "icons":{
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
