@@ -12,15 +12,7 @@ But the main thing about this project is the consumption of api of random quotes
 <p align="center">
   <img src="https://github.com/italicnich/Random-quote-extension/blob/main/readmeimg/api.png" alt="Page Preview" width="700">
 </p>
-<h3 align="justify"><i>Anyway, I implemented what I had said. I just put a seconds counter as the score, styled it and added it in a popup with location.reload() to restart the game. It's still not pretty, not as the arts of our dear artist (FOLLOW HIM), but works.<br><br>
-<p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/img-2.png" alt="Page Preview - Popup" width="1000">
-</p>
-The two extremely simple functions below:</i></h3>
-<p align="center">
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-4.png" alt="Js Function - ScoreBoard" width="500"> <br>
-  <img src="https://github.com/italicnich/jump-game/blob/main/readmeimg/js-function-5.png" alt="Js Function -Popup" width="500">
-</p>
+<h3 align="justify"><i>I would like to implement a bookmark button and maybe a like button in the future, but honestly I have no idea how to do that. So this update should take a little longer.</i></h3>
 <h3 align="justify">
 Thanks for reading, see you soon
 </h3>
